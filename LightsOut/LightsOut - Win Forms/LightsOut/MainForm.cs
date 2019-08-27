@@ -4,6 +4,7 @@ using System.Windows.Forms;
 
 namespace LightsOut
 {
+    // COMMENT!
     public partial class MainForm : Form
     {
         private const int GridOffset = 25;     // Distance from upper-left side of window
